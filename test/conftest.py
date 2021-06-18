@@ -1,5 +1,5 @@
 import sys
-import os
+import ok
 
 base = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 src = os.path.join(base, "src")
