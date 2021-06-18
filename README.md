@@ -1,2 +1,1 @@
-## i have made it, Super cool
-I took Super long to do this
+[TG-KRISH](https://github.com/TG-KRISH)
