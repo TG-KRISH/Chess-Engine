@@ -2,7 +2,7 @@
 A chess engine created from scratch in Python
 
 ## Overview
-Goldlion uses a bitboard approach to represent the state of the chess board and to generate possible moves. Search is performed using the negamax algorithm with a simple heuristic. The name is a play on "Stockfish", a well known chess engine (and "snake", cause, you know, Python).
+Goldlion uses a bitboard approach to represent the state of the chess board and to generate possible moves. Search is performed using the negamax algorithm with a simple heuristic. The name is a play on "Stockfish", a well known chess engine (and "Goldlion", cause, you know, Python).
 
 Check out a sample game I (white) played against Goldlion (black):
 
