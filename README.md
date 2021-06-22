@@ -1,5 +1,5 @@
 # Goldlion
-A chess engine created from scratch in Python
+A chess engine created from Python
 
 ## Overview
 Goldlion uses a bitboard approach to represent the state of the chess board and to generate possible moves. Search is performed using the negamax algorithm with a simple heuristic. The name is a play on "Stockfish", a well known chess engine (and "Goldlion", cause, you know, Python).
