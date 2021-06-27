@@ -190,7 +190,7 @@ def compute_first_rank_moves(i, occ):
 FIRST_RANK_MOVES = np.fromiter(
         (compute_first_rank_moves(i, occ)
             for i in range(8) # 8 squares in a rank 
-            for occ in range(256)), # 2^8 = 256 possible occupancies of a rank
+            for occ in range(256)), # 2^8 = 256 possible occupancies of a rank.
         dtype=np.uint8,
         count=8*256)
 FIRST_RANK_MOVES.shape = (8,256)
