@@ -1,4 +1,4 @@
-# Goldlion
+# _Goldlion_
 A chess engine created from Python
 
 ## Overview
